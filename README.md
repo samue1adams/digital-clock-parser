@@ -1,6 +1,6 @@
 ## Digital Clock Number Challenge
 
-#### This is a java progam that is run from the command line and takes a txt file as an input. It parses digital clock numbers formatted with underscores and pipes and checks their validity. The program will output the policy number and whether or not the number is valid. 
+#### This is a java progam that is run from the command line and takes a txt file as an input. It parses digital clock numbers formatted with underscores and pipes and checks their validity. The program will output the number and whether or not the number is valid. 
 
 #### Dependencies : JDK17 
 
